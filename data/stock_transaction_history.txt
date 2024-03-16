@@ -1,0 +1,12 @@
+Event           CompSymbol      Number      PricePerShare   TotalValue      Time            
+Buy             AIG             3           $35.10          $105.30         17:8:11         
+Buy             YHOO            10          $15.38          $153.80         17:8:24         
+Buy             AAPL            2           $197.92         $395.84         17:8:41         
+Buy             GS              2           $170.01         $340.02         17:8:53         
+Sell            YHOO            1           $16.38          $16.38          22:28:28        
+Buy             CSCO            10          $24.46          $244.60         22:42:52        
+Buy             BA              10          $51.70          $517.00         22:43:10        
+Buy             TGT             2           $48.46          $96.92          23:19:1         
+Buy             MSFT            15          $30.62          $459.30         1:22:26         
+Buy             PG              2           $61.80          $123.60         10:19:54        
+Sell            MSFT            2           $29.62          $59.24          10:20:21        

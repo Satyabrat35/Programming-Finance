@@ -1,0 +1,10 @@
+CompSymbol	Number	
+BA		10
+MSFT		13
+AAPL		2
+GS		2
+CSCO		10
+YHOO		9
+AIG		3
+TGT		2
+PG		2
